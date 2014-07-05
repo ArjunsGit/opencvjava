@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.arjun.skincolor;
+
+/**
+ * @author arjunflex
+ *
+ */
+public class OpenCVCannyEdgeDetection {
+
+}
